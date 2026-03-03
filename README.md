@@ -1,7 +1,6 @@
 ### 键盘记录器
-
-```python
 # 你在克隆此仓库后可以执行 "一键启动.bat" 可直接运行
+```python
 
 # 1. 建立并激活虚拟环境
 python -m venv .venv
